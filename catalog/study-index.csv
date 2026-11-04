@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+im01,Micro Shift,pack-local equal-tempered pitch collection,C,116,4/4,480,32,61440,midi/im01-micro-shift/im01-micro-shift-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+im02,Offset Study,pack-local equal-tempered pitch collection,D#,116,4/4,480,32,61440,midi/im02-offset-study/im02-offset-study-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+im03,Fine Grain,pack-local equal-tempered pitch collection,F#,116,4/4,480,32,61440,midi/im03-fine-grain/im03-fine-grain-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+im04,Moving Grid,pack-local equal-tempered pitch collection,C#,116,4/4,480,32,61440,midi/im04-moving-grid/im04-moving-grid-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

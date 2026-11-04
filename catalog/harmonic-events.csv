@@ -1,0 +1,129 @@
+study_id,bar,start_tick,tonic,collection,chord_pitches,intent
+im01,1,0,C,pack-local equal-tempered pitch collection,48 51 54,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,2,1920,C,pack-local equal-tempered pitch collection,48 51 54,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,3,3840,C,pack-local equal-tempered pitch collection,48 51 54,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,4,5760,C,pack-local equal-tempered pitch collection,48 51 54,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,5,7680,C,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,6,9600,C,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,7,11520,C,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,8,13440,C,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,9,15360,C,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,10,17280,C,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,11,19200,C,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,12,21120,C,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,13,23040,C,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,14,24960,C,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,15,26880,C,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,16,28800,C,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,17,30720,C,pack-local equal-tempered pitch collection,48 51 54,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,18,32640,C,pack-local equal-tempered pitch collection,48 51 54,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,19,34560,C,pack-local equal-tempered pitch collection,48 51 54,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,20,36480,C,pack-local equal-tempered pitch collection,48 51 54,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,21,38400,C,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,22,40320,C,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,23,42240,C,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,24,44160,C,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,25,46080,C,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,26,48000,C,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,27,49920,C,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,28,51840,C,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,29,53760,C,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,30,55680,C,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,31,57600,C,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im01,32,59520,C,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Initial cell establishes the material.
+im02,1,0,D#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,2,1920,D#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,3,3840,D#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,4,5760,D#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,5,7680,D#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,6,9600,D#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,7,11520,D#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,8,13440,D#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,9,15360,D#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,10,17280,D#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,11,19200,D#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,12,21120,D#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,13,23040,D#,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,14,24960,D#,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,15,26880,D#,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,16,28800,D#,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,17,30720,D#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,18,32640,D#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,19,34560,D#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,20,36480,D#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,21,38400,D#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,22,40320,D#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,23,42240,D#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,24,44160,D#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,25,46080,D#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,26,48000,D#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,27,49920,D#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,28,51840,D#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,29,53760,D#,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,30,55680,D#,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,31,57600,D#,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im02,32,59520,D#,pack-local equal-tempered pitch collection,51 54 57,Evolving step patterns with small timing offsets. Statement introduces a different contour.
+im03,1,0,F#,pack-local equal-tempered pitch collection,60 63 66,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,2,1920,F#,pack-local equal-tempered pitch collection,60 63 66,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,3,3840,F#,pack-local equal-tempered pitch collection,60 63 66,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,4,5760,F#,pack-local equal-tempered pitch collection,60 63 66,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,5,7680,F#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,6,9600,F#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,7,11520,F#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,8,13440,F#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,9,15360,F#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,10,17280,F#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,11,19200,F#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,12,21120,F#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,13,23040,F#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,14,24960,F#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,15,26880,F#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,16,28800,F#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,17,30720,F#,pack-local equal-tempered pitch collection,60 63 66,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,18,32640,F#,pack-local equal-tempered pitch collection,60 63 66,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,19,34560,F#,pack-local equal-tempered pitch collection,60 63 66,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,20,36480,F#,pack-local equal-tempered pitch collection,60 63 66,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,21,38400,F#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,22,40320,F#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,23,42240,F#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,24,44160,F#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,25,46080,F#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,26,48000,F#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,27,49920,F#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,28,51840,F#,pack-local equal-tempered pitch collection,54 57 60,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,29,53760,F#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,30,55680,F#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,31,57600,F#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im03,32,59520,F#,pack-local equal-tempered pitch collection,57 60 63,Evolving step patterns with small timing offsets. Contrast moves the accent map.
+im04,1,0,C#,pack-local equal-tempered pitch collection,50 53 56,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,2,1920,C#,pack-local equal-tempered pitch collection,50 53 56,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,3,3840,C#,pack-local equal-tempered pitch collection,50 53 56,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,4,5760,C#,pack-local equal-tempered pitch collection,50 53 56,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,5,7680,C#,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,6,9600,C#,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,7,11520,C#,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,8,13440,C#,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,9,15360,C#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,10,17280,C#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,11,19200,C#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,12,21120,C#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,13,23040,C#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,14,24960,C#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,15,26880,C#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,16,28800,C#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,17,30720,C#,pack-local equal-tempered pitch collection,50 53 56,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,18,32640,C#,pack-local equal-tempered pitch collection,50 53 56,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,19,34560,C#,pack-local equal-tempered pitch collection,50 53 56,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,20,36480,C#,pack-local equal-tempered pitch collection,50 53 56,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,21,38400,C#,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,22,40320,C#,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,23,42240,C#,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,24,44160,C#,pack-local equal-tempered pitch collection,49 52 55,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,25,46080,C#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,26,48000,C#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,27,49920,C#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,28,51840,C#,pack-local equal-tempered pitch collection,52 55 58,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,29,53760,C#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,30,55680,C#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,31,57600,C#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.
+im04,32,59520,C#,pack-local equal-tempered pitch collection,55 58 61,Evolving step patterns with small timing offsets. Return keeps the identity while changing one placement.

@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/idm-micro-rhythms-simple-synth-preview.mp3",
+  "preview_sha256": "09c099f922e1fd55ec15238b63b013fff7408d4dfd738eb8d3997b58f0d36ab0",
+  "source_midi_path": "midi/im01-micro-shift/im01-micro-shift-combined.mid",
+  "source_midi_sha256": "2e5b72c37f4a718cce6df90b1220e1e00e7b940e212098e958194a7243cd0a5c",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "im01",
+    "start_seconds": 0,
+    "end_seconds": 66.207
+  },
+  "measurement": {
+    "sample_peak": 0.101651,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/idm-micro-rhythms-simple-synth-preview.mp3",
+  "source_audio_sha256": "09c099f922e1fd55ec15238b63b013fff7408d4dfd738eb8d3997b58f0d36ab0",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "324b030c66bbe0dc8c2b2b3be0e26e220cebced318dafee46693831c4939bd50",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}
