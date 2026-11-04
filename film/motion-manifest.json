@@ -1,0 +1,26 @@
+{
+  "title": "IDM Micro-Rhythms",
+  "study": "im01",
+  "bpm": 116,
+  "source_audio": "preview/idm-micro-rhythms-simple-synth-preview.mp3",
+  "source_audio_sha256": "09c099f922e1fd55ec15238b63b013fff7408d4dfd738eb8d3997b58f0d36ab0",
+  "source_midi": "midi/im01-micro-shift/im01-micro-shift-combined.mid",
+  "source_midi_sha256": "2e5b72c37f4a718cce6df90b1220e1e00e7b940e212098e958194a7243cd0a5c",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "f4bce7726e9016a9fd26e83ad11e1b383b6f5f251c61e03992190781458e2ce9",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "7592416a74dd0e537b6d90cf4d506a9d45f8dc379d402fd1fb76c452c36b86c8",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "ca95369aab8de6d72ffa82e64a85ec1e4645278565e26e79a95a8de2cc4eb207",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
