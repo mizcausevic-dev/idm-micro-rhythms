@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 787,
-      "sha256": "855345dbde2cc41f26c35461357534ab5030c191ca60b1e1eccbc3afbcc0b7d4"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3540,
-      "sha256": "82dd512572589fa469cff0181a1a02f2507c03594a1cbec9f8006bad0c3630b1"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -113,8 +103,8 @@
     },
     {
       "path": "downloads/idm-micro-rhythms-midi.zip",
-      "bytes": 24067,
-      "sha256": "b5c88c5deab4ec02561838c32a629ef6842ade47cc3c70b372397228537de2a6"
+      "bytes": 26071,
+      "sha256": "1108f381813fdb3422ac9fd3826562a9d1b1e2535d54652435287653a7f895de"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -135,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 32591,
       "sha256": "3d58372ba6aa8682682de62409d6c666b09f4b20887511fcfb73804598d9c5dc"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 970302,
-      "sha256": "ca95369aab8de6d72ffa82e64a85ec1e4645278565e26e79a95a8de2cc4eb207"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -168,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9251,
-      "sha256": "0a7a715518a38f74c6edd65ef116adc595855dd607f5eae516a614d98600143a"
+      "bytes": 9441,
+      "sha256": "c62fe937ff45b448ad9e8d98cba6398ab25b40f6c7dda0ae569c1bddfca01d52"
     },
     {
       "path": "midi/im01-micro-shift/chord_pulse.mid",
@@ -312,6 +297,16 @@
       "sha256": "ebbfdb75b2182cc0a1169d69ba0657a6db977a752b0f511d7ffa26fc755eba2e"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 787,
+      "sha256": "855345dbde2cc41f26c35461357534ab5030c191ca60b1e1eccbc3afbcc0b7d4"
+    },
+    {
       "path": "preview/idm-micro-rhythms-simple-synth-preview.mp3",
       "bytes": 1602499,
       "sha256": "09c099f922e1fd55ec15238b63b013fff7408d4dfd738eb8d3997b58f0d36ab0"
@@ -320,6 +315,11 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1130,
       "sha256": "890ed702a643ea84baf5310c36bcd09b093b8719e8391f234e766af8fe97be67"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3655,
+      "sha256": "1a0a405e7d83e7111530add4d181d06662778f302b04103b053330805112e65f"
     },
     {
       "path": "social/instagram/caption.txt",
